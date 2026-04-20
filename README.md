@@ -1,7 +1,7 @@
 # Child Growth Monitoring Dashboard (Posyandu Desa Pulomulya)
 
 ## Resource
-- 📈 [Dashboard](https://lookerstudio.google.com/reporting/7dcb70ff-8547-466c-adf0-27753bba7151)
+- 📈 [Dashboard Looker Studio](https://lookerstudio.google.com/reporting/7dcb70ff-8547-466c-adf0-27753bba7151)
 - 🔗 [Presentation Deck](https://drive.google.com/file/d/1APzV2n7Fyn8uCUfeULRrUg9jF6xzpzt2)
 
 ## Project Overview
@@ -67,9 +67,3 @@ After input submission:
 - Reduced manual workload in data processing  
 - Better communication between Posyandu and higher health authorities  
 - Data-driven decision support for child health programs  
-
-## Output
-- Digital data entry system for Posyandu
-- Automated child health classification system
-- Interactive Looker Studio dashboard
-- Real-time child growth monitoring tool
